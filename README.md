@@ -3,8 +3,8 @@
 
 ## Include the following in this read me
 
-1. Who is this app for?
-1. What does it do, how does it work
+1. Who is this app for? This app is for people who want to express their artistic creativity.
+1. What does it do, how does it work? It is a coloring game where you can take pictures and then color them.
 1. Add screenshots of the design view or actual app
 1. Blocks that you showcase your individual skill
 1. The images you created
